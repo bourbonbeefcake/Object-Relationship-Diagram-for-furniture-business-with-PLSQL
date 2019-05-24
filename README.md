@@ -9,3 +9,29 @@ Below, the complete ERD is displayed, the red entities marking the tables that w
 
 
 ![Entity Relationship Diagram](https://github.com/antoniosTriant/Object-Relationship-Diagram-for-furniture-business-with-PLSQL/blob/master/ERD.png)
+
+
+Additionaly, all design of cursors, triggers, procedures and functions are displayed below.
+
+***
+## FUNCTIONS
+***
+![Function Design](https://github.com/antoniosTriant/Object-Relationship-Diagram-for-furniture-business-with-PLSQL/blob/master/functions.png)
+
+***
+
+## PROCEDURES
+***
+![Procedure Design](https://github.com/antoniosTriant/Object-Relationship-Diagram-for-furniture-business-with-PLSQL/blob/master/procedures.png)
+
+***
+
+## TRIGGERS
+***
+![Trigger Design](https://github.com/antoniosTriant/Object-Relationship-Diagram-for-furniture-business-with-PLSQL/blob/master/triggers.png)
+
+***
+
+## CURSORS
+***
+![Cursor design](https://github.com/antoniosTriant/Object-Relationship-Diagram-for-furniture-business-with-PLSQL/blob/master/cursors.png)
